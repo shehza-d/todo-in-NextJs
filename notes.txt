@@ -1,0 +1,1 @@
+onChange onClick useState useEffect <= this only work in client components not server
