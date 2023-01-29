@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Inter } from "@next/font/google";
 import styles from "./page.module.css";
-import TodoList from "./components/todoList";
+import TodoList from "./components/TodoList";
 import AddNewTodo from "./components/addNewToDo";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div className={styles.description}>
+      {/* <div className={styles.description}>
         <p>
           Todo App by&nbsp;
           <a className={styles.code} href="https://twitter.com/shehza_d_">
@@ -44,7 +44,7 @@ export default function Home() {
             />
           </a>
         </div>
-      </div>
+      </div> */}
 <hr />
      
         
