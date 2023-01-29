@@ -5,10 +5,11 @@ const getTodos = async () => {
   // `https://gray-exuberant-nightingale.cyclic.app/todos`
   let todos = await fetch(`http://localhost:3000/api/todo/list`);
   return await todos.json();
-}; 
+};
 
 export default function TodoList() {
-  const res =  getTodos();
+  let res;
+  (async () => (res = await getTodos()))();
   console.log(res);
 
   return (
