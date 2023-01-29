@@ -1,1 +1,431 @@
-self.__RSC_MANIFEST={"__ssr_module_mapping__":{"30":{"":{"id":"9797","name":"","chunks":["931:app/page-b674d69f91b48c92"],"async":false},"*":{"id":"9797","name":"*","chunks":["931:app/page-b674d69f91b48c92"],"async":false},"default":{"id":"9797","name":"default","chunks":["931:app/page-b674d69f91b48c92"],"async":false}},"2092":{"":{"id":"6862","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"6862","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"6862","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"7043":{"":{"id":"2030","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"2030","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"2030","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"7954":{"":{"id":"9446","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"9446","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"9446","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"9875":{"":{"id":"3258","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"3258","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"3258","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\app\\layout":["static/css/876d048b5dab7c28.css"],"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\app\\page":["static/css/17f0d613640b4042.css","static/css/94e3f5b801358148.css"]},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\next\\dist\\client\\components\\app-router.js":{"":{"id":"7954","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"7954","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"7954","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\next\\dist\\client\\components\\error-boundary.js":{"":{"id":"7043","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"7043","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"7043","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\next\\dist\\client\\components\\layout-router.js":{"":{"id":"9875","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"9875","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"9875","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js":{"":{"id":"2092","name":"","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"*":{"id":"2092","name":"*","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false},"default":{"id":"2092","name":"default","chunks":["272:webpack-bc75ac6599ad2c7c","17:17-12efd9d6cbd244d3","744:main-app-adc321195bf7be34"],"async":false}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\next\\dist\\client\\image.js":{"":{"id":"30","name":"","chunks":["931:app/page-b674d69f91b48c92"],"async":false},"*":{"id":"30","name":"*","chunks":["931:app/page-b674d69f91b48c92"],"async":false},"default":{"id":"30","name":"default","chunks":["931:app/page-b674d69f91b48c92"],"async":false}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\app\\globals.css":{"default":{"id":"9617","name":"default","chunks":["static/css/876d048b5dab7c28.css"]}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\app\\page.module.css":{"default":{"id":"9036","name":"default","chunks":["static/css/94e3f5b801358148.css"]}},"C:\\Users\\Lab01R05Pc44\\Desktop\\shehzad\\todo-in-NextJs\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}":{"default":{"id":"9237","name":"default","chunks":["static/css/17f0d613640b4042.css"]}}}
+self.__RSC_MANIFEST={
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/layout": [
+      "static/css/_app-client_app_globals_css.css"
+    ],
+    "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/page": [
+      "static/css/_app-client_app_page_module_css.css",
+      "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
+    ]
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/esm/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/esm/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/globals.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_app_globals_css.css"
+      ]
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
+      ]
+    }
+  },
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/page.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_app_page_module_css.css"
+      ]
+    }
+  }
+}
