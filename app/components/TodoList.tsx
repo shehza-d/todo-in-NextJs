@@ -7,8 +7,8 @@ const getTodos = async () => {
   return await todos.json();
 }; 
 
-export default async function TodoList() {
-  const res = await getTodos();
+export default function TodoList() {
+  const res =  getTodos();
   console.log(res);
 
   return (
