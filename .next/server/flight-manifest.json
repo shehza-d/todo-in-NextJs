@@ -1,8 +1,8 @@
 {
   "__ssr_module_mapping__": {
-    "(app-client)/./app/components/addNewToDo.tsx": {
+    "(app-client)/./components/addNewToDo.tsx": {
       "": {
-        "id": "(sc_client)/./app/components/addNewToDo.tsx",
+        "id": "(sc_client)/./components/addNewToDo.tsx",
         "name": "",
         "chunks": [
           "app/page:app/page"
@@ -10,7 +10,7 @@
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./app/components/addNewToDo.tsx",
+        "id": "(sc_client)/./components/addNewToDo.tsx",
         "name": "*",
         "chunks": [
           "app/page:app/page"
@@ -18,33 +18,7 @@
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./app/components/addNewToDo.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/components/todo.tsx": {
-      "": {
-        "id": "(sc_client)/./app/components/todo.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "*": {
-        "id": "(sc_client)/./app/components/todo.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/components/todo.tsx",
+        "id": "(sc_client)/./components/addNewToDo.tsx",
         "name": "default",
         "chunks": [
           "app/page:app/page"
@@ -167,9 +141,9 @@
       "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
     ]
   },
-  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/components/addNewToDo.tsx": {
+  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/components/addNewToDo.tsx": {
     "": {
-      "id": "(app-client)/./app/components/addNewToDo.tsx",
+      "id": "(app-client)/./components/addNewToDo.tsx",
       "name": "",
       "chunks": [
         "app/page:app/page"
@@ -177,7 +151,7 @@
       "async": false
     },
     "*": {
-      "id": "(app-client)/./app/components/addNewToDo.tsx",
+      "id": "(app-client)/./components/addNewToDo.tsx",
       "name": "*",
       "chunks": [
         "app/page:app/page"
@@ -185,33 +159,7 @@
       "async": false
     },
     "default": {
-      "id": "(app-client)/./app/components/addNewToDo.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/home/shehzad/sPROGRAMMING/NEXT/todo-in-NextJs/app/components/todo.tsx": {
-    "": {
-      "id": "(app-client)/./app/components/todo.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./app/components/todo.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./app/components/todo.tsx",
+      "id": "(app-client)/./components/addNewToDo.tsx",
       "name": "default",
       "chunks": [
         "app/page:app/page"
