@@ -15,7 +15,7 @@ export default function TodoList() {
   return (
     <div>
       <ul style={{ listStyleType: "none", padding: 0 }}>
-        {res.todos.map((eachTodo: todoObj) => {
+        {res?.todos.map((eachTodo: todoObj) => {
           return (
             <li key={eachTodo.id} style={{ padding: "5px 0" }}>
               <Todo todo={eachTodo} />
