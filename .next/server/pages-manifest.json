@@ -1,15 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/api/comments": "pages/api/comments.js",
-  "/api/companies": "pages/api/companies.js",
-  "/api/hello": "pages/api/hello.js",
-  "/api/todo/add": "pages/api/todo/add.js",
-  "/api/todo/delete": "pages/api/todo/delete.js",
-  "/api/todo/list": "pages/api/todo/list.js",
-  "/api/todo/update": "pages/api/todo/update.js",
-  "/api/users": "pages/api/users.js",
-  "/api/posts": "pages/api/posts.js",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/_document": "pages/_document.js"
 }
