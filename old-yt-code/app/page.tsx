@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Inter } from "@next/font/google";
-import styles from "./page.module.css";
 import TodoList from "../components/TodoList";
 import AddNewTodo from "../components/addNewToDo";
 
